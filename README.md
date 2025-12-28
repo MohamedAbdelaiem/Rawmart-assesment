@@ -299,6 +299,33 @@ task-management-app/
 - `npm run build` - Build for production
 - `npm run preview` - Preview production build
 
+## Testing
+
+This project includes simple, easy-to-understand tests.
+
+### Quick Start
+
+```bash
+cd backend
+npm test
+```
+
+All tests should pass with green checkmarks ✓
+
+### What's Tested
+
+- **Authentication** - Basic auth functionality
+- **Tasks** - Task creation and management  
+- **Validation** - Input validation (email, password, etc.)
+
+### More Details
+
+See [TESTING.md](task-management-app/TESTING.md) for complete testing guide including:
+- How to run specific tests
+- Understanding test results
+- Running tests with coverage
+- Test structure explanation
+
 ## License
 
 This project is created as a technical assessment.
