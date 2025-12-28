@@ -2,6 +2,17 @@
 
 A full-stack task management application built with Express.js and React, featuring user authentication and full CRUD operations for tasks.
 
+## Screenshots
+
+### Task Page
+![Task Page](task-management-app/images/image.png)
+
+### Login Page
+![Login Page](task-management-app/images/image%20copy.png)
+
+### Task Management Dashboard
+![Task Dashboard](task-management-app/images/image%20copy%202.png)
+
 ## Features
 
 - **User Authentication**
